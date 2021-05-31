@@ -1,0 +1,4 @@
+- 👋 Hello, I'm @ErendiroPedro
+- 👀 I’m interested in ... Robotics
+- 🌱 I’m currently learning ... Rust
+- 📫 How to reach me ... erendiropedro@gmail.com
