@@ -1,19 +1,26 @@
-# Hey you! 👋
-I guess we finally meet. I don't know what brought you here, but I hope cool shapes make you stay.
+> "I think the universe is pure geometry – a beautiful shape twisting around and dancing over space-time." — Antony Garrett Lisi
 
-I'm an engineer and (pseudo)researcher who really likes geometry, statistics, and machine learning — so expect most projects here to live somewhere in this intersection.
+I’m drawn to patterns, and to the hidden complexity behind apparent simplicity.  
+Lately, I’ve been thinking a lot about **predicates**: what are they really, and where do they come from? I have a feeling there’s a bit of reality hidden in the answers to these questions.  
 
-Other than that, I'm also open to Go matches! → [Find me on OGS](https://online-go.com/player/761486/)
+Anyway, If you want a Go match [find me on OGS](https://online-go.com/player/761486/).  
 
----
-
-## Live Webpages 🌐
-👉 [Tetrahedron–Tetrahedron Intersection using Neural Networks](https://erendiropedro.github.io/Tetrahedron-Tetrahedron-Intersection-and-Volume-Computation-Using-Neural-Networks/)
-
-## What I'm interested in right now
-* **Piano Mover's Problem** — there's something beautiful about finding paths through impossible spaces
-* **Situational Awareness Foundational Models** — how do we teach machines to really understand what's happening around them?
+I’m an engineer and (pseudo) researcher, and my main interests lie in geometry, statistics, and machine learning, most projects here live somewhere in that intersection.  
 
 ---
 
-I want to pack as much knowledge into my head as possible, and make learning my lifelong mission. If that resonates, you might enjoy poking around my projects.
+## Live Webpages
+
+- [Tetrahedron–Tetrahedron Intersection using Neural Networks](https://erendiropedro.github.io/Tetrahedron-Tetrahedron-Intersection-and-Volume-Computation-Using-Neural-Networks/)
+
+---
+
+## What I’m exploring right now
+
+- **Piano Mover's Problem** — thinking about space, motion, and constraints in new ways  
+- **Situational Awareness Foundational Models** — blending perception, reasoning, and prediction  
+
+---
+
+I want to absorb as much knowledge as I can and make curiosity a lifestyle.  
+If that resonates, stick around, there’s more to explore.
