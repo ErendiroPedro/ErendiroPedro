@@ -1,11 +1,19 @@
-## Hey You, Glad You Found Me 👋  
+# Hey you! 👋
+I guess we finally meet. I don't know what brought you here, but I hope cool shapes make you stay.
 
-I’m a software engineer with a Bachelor’s in Electrical and Computer Engineering and a Master’s in Artificial Intelligence. My technical foundation is built on **C++** and **Python**, with theoretical expertise in **statistical learning theory**, **constrained optimization**, **deep learning**, and more. I’ve always been drawn to the elegance of algebra and statistics, and over time, I’ve developed a passion for **computer graphics** and **machine learning**. What’s better than finding creative ways to blend them all together?  
+I'm an engineer and (pseudo)researcher who really likes geometry, statistics, and machine learning — so expect most projects here to live somewhere in this intersection.
 
-Here, you’ll find a mix of personal projects and writings. Currently, I’m working on:  
-- **Tetrahedron-Tetrahedron Intersection** and **Volume Computation using Neural Networks**.  
-- An introductory series on **Statistical Learning Theory** for undergrads.  
+Other than that, I'm also open to Go matches! → [Find me on OGS](https://online-go.com/player/761486/)
 
-Stay tuned! :D  
+---
 
-Check out my repos for more!  
+## Live Webpages 🌐
+👉 [Tetrahedron–Tetrahedron Intersection using Neural Networks](https://erendiropedro.github.io/Tetrahedron-Tetrahedron-Intersection-and-Volume-Computation-Using-Neural-Networks/)
+
+## What I'm interested in right now
+* **Piano Mover's Problem** — there's something beautiful about finding paths through impossible spaces
+* **Situational Awareness Foundational Models** — how do we teach machines to really understand what's happening around them?
+
+---
+
+I want to pack as much knowledge into my head as possible, and make learning my lifelong mission. If that resonates, you might enjoy poking around my projects.
