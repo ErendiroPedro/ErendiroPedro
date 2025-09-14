@@ -12,15 +12,3 @@ I’m an engineer and (pseudo) researcher, and my main interests lie in geometry
 ## Live Webpages
 
 - [Tetrahedron–Tetrahedron Intersection using Neural Networks](https://erendiropedro.github.io/Tetrahedron-Tetrahedron-Intersection-and-Volume-Computation-Using-Neural-Networks/)
-
----
-
-## What I’m exploring right now
-
-- **Piano Mover's Problem** — thinking about space, motion, and constraints in new ways  
-- **Situational Awareness Foundational Models** — blending perception, reasoning, and prediction  
-
----
-
-I want to absorb as much knowledge as I can and make curiosity a lifestyle.  
-If that resonates, stick around, there’s more to explore.
