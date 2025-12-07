@@ -11,4 +11,4 @@ I’m an engineer and (pseudo) researcher, and my main interests lie in geometry
 
 ## Live Webpages
 
-- [Tetrahedron–Tetrahedron Intersection using Neural Networks]([https://erendiropedro.github.io/Tetrahedron-Tetrahedron-Intersection-and-Volume-Computation-Using-Neural-Networks/](https://cgvr.cs.uni-bremen.de/theses/finishedtheses//tetrahedron-volume-computation/))
+- [Tetrahedron–Tetrahedron Intersection using Neural Networks](https://cgvr.cs.uni-bremen.de/theses/finishedtheses//tetrahedron-volume-computation/)
